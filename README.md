@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oysters3
-- 👀 I’m interested in building things.
-- 🌱 I’m currently learning HTML, CDD, JS, Python...
+- 👀 I’m interested in and enjoy building things.
+- 🌱 I’m currently learning HTML, CSS, JS, Python, LLM, networking, Bios modification... What else are the nights for?
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Oysters.git@gmail.com
 
